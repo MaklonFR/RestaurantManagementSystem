@@ -71,3 +71,4 @@ Link Video Paket 2:
 https://www.youtube.com/watch?v=TbxfLpClMkQ&t=7s
 
 Link Video Paket 3:
+https://www.youtube.com/watch?v=0rS_Ym5-u8U
