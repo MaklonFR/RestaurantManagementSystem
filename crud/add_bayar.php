@@ -1,6 +1,7 @@
 <?php
  //print_r($_POST);
- include "../includes/koneksi.php";
+ include "../includes/koneksi.php"; 
+ include "../includes/timezone.php";
  $tharga    = $_POST['tharga'];
  $tbayar    = $_POST['tbayar'];
  $diskon    = "Rp. 0";
