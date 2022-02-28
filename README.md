@@ -33,21 +33,6 @@ BACKEND
 
 ![image](https://user-images.githubusercontent.com/88584119/155958679-b27b2f7e-a5ad-4986-bdb6-8fb03ebad80a.png)
 
-
-Cara menggunakannya:
-
-Copy Folder ukk1 ke folder c:/XAMPP/htdocs
-Jalankan Webserver Apache XAMPP
-Buka browser chrome
-Masukan alamat url: localhost/ukk1
-Mulai Register dengan memasukan NIK dan Nama Lengkap
-Login menggunakan NIK dan Nama Lengkap yang telah terdaftar.
-Selesai
-SALAM SMK BISA SMK HEBAT REKAYASA PERANGKAT LUNAK (RPL) SMKN 1 KUWUS MANGGARAI BARAT NUSA TENGGARA TIMUR
-
-LINK WEB SMK NEGERI 1 KUWUS - MANGGARAI BARAT:
-
-https://www.smkn1kuwus.sch.id/
 **4. Ambil No. Meja**
 
 ![image](https://user-images.githubusercontent.com/88584119/155958858-7a5f2f2e-ec7d-421c-9911-dff7063a8902.png)
