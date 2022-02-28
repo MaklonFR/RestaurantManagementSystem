@@ -1,6 +1,7 @@
 <?php
  //print_r($_POST);
  include "../includes/koneksi.php";
+ include "../includes/timezone.php";
  $jml       = $_POST['jml'];
  $total     = $_POST['total'];
  $status    = "Dalam Pemesanan";
