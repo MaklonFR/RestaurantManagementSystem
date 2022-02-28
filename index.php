@@ -217,5 +217,4 @@ $("document").ready(function(){
 });
 </script>    
 
-<!-- Mirrored from themesbrand.com/dason/layouts/default/auth-login.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 16:25:18 GMT -->
 </html>
