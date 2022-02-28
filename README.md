@@ -66,6 +66,7 @@ https://www.smkn1kuwus.sch.id/
 
 Link Video Paket 1:
 https://www.youtube.com/watch?v=Jtm421uE-C8
+
 Link Video Paket 2:
 https://www.youtube.com/watch?v=TbxfLpClMkQ&t=7s
 
