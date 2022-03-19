@@ -64,11 +64,5 @@ LINK WEB SMK NEGERI 1 KUWUS - MANGGARAI BARAT:
 
 https://www.smkn1kuwus.sch.id/
 
-Link Video Paket 1:
-https://www.youtube.com/watch?v=Jtm421uE-C8
-
-Link Video Paket 2:
-https://www.youtube.com/watch?v=TbxfLpClMkQ&t=7s
-
-Link Video Paket 3:
-https://www.youtube.com/watch?v=0rS_Ym5-u8U
+Link Totorial YouTube:
+https://www.youtube.com/channel/UCmIL-UoO0RNQBHPrsbBTJmw/featured
